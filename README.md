@@ -17,4 +17,4 @@ This is a pen.
 
 #### ここからリンク
 
-[github testtest repository] [https://github.com/hatake0412/testtest]
+[github testtest repository] (https://github.com/hatake0412/testtest "testtest")
