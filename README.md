@@ -1,6 +1,6 @@
 # Test Markdown
 
-This is a pen.
+<color=#555555>This is a pen.</color>
 
 ## Test Markdown 2
 *強調*
